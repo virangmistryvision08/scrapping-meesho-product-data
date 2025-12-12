@@ -1,0 +1,970 @@
+{
+    "result": {
+        "product": {
+            "id": 303431485,
+            "additional_attributes_url": "https://webviews.meesho.com/pdp-additional-props/303431485",
+            "name": "Woolen kurti with pant and duppata",
+            "is_vton_enabled": false,
+            "description": "Name: Woolen kurti with pant and duppata\nKurta Fabric: Wool\nBottomwear Fabric: Wool\nSleeve Length: Three-Quarter Sleeves\nSet Type: Kurta With Bottomwear\nBottom Type: Pants\nPattern: Striped\nNet Quantity (N): Single\nSizes:\nXXS, XS, S (Bust Size: 36 in, Shoulder Size: 14 in, Kurta Waist Size: 32 in, Kurta Length Size: 42 in) \nM (Bust Size: 38 in, Shoulder Size: 14 in, Kurta Waist Size: 34 in, Kurta Length Size: 42 in) \nL (Bust Size: 40 in, Shoulder Size: 15 in, Kurta Waist Size: 36 in, Kurta Length Size: 42 in) \nXL (Bust Size: 42 in, Shoulder Size: 15 in, Kurta Waist Size: 38 in, Kurta Length Size: 42 in) \nXXL (Bust Size: 44 in, Shoulder Size: 16 in, Kurta Waist Size: 40 in, Kurta Length Size: 42 in) \nXXXL, 4XL, 5XL\nKhadi cotton kurti\nKhadi cotton kurti set\nKhadi cotton kurti with dupatta\nDuppatta set\nKurti with pant and dupatta \nCountry of Origin: India",
+            "product_details": {
+                "product_highlights": {
+                    "title": "Product Highlights",
+                    "collapsed": false,
+                    "overflow_threshold": 4,
+                    "attributes": [
+                        {
+                            "field_name": "bottom_type",
+                            "display_name": "Bottom Type",
+                            "value": "Pants"
+                        },
+                        {
+                            "field_name": "fit_shape",
+                            "display_name": "Fit/ Shape",
+                            "value": "A-line"
+                        },
+                        {
+                            "field_name": "print_or_pattern_type",
+                            "display_name": "Print or Pattern Type",
+                            "value": "Stripe"
+                        },
+                        {
+                            "field_name": "kurta_fabric",
+                            "display_name": "Kurta Fabric",
+                            "value": "Wool"
+                        }
+                    ]
+                },
+                "additional_details": {
+                    "title": "Additional Details",
+                    "collapsed": true,
+                    "overflow_threshold": 100,
+                    "attributes": [
+                        {
+                            "field_name": "bottomwear_fabric",
+                            "display_name": "Bottomwear Fabric",
+                            "value": "Wool"
+                        },
+                        {
+                            "field_name": "kurta_color",
+                            "display_name": "Kurta Color",
+                            "value": "Pink"
+                        },
+                        {
+                            "field_name": "bottomwear_color",
+                            "display_name": "Bottomwear Color",
+                            "value": "Pink"
+                        },
+                        {
+                            "field_name": "set_type",
+                            "display_name": "Set Type",
+                            "value": "Kurta With Bottomwear"
+                        },
+                        {
+                            "field_name": "fabric",
+                            "display_name": "Dupatta Fabric",
+                            "value": "Wool"
+                        },
+                        {
+                            "field_name": "color",
+                            "display_name": "Dupatta Color",
+                            "value": "Multicolor"
+                        },
+                        {
+                            "field_name": "stitch_type",
+                            "display_name": "Stitch Type",
+                            "value": "Stitched"
+                        },
+                        {
+                            "field_name": "length",
+                            "display_name": "Length",
+                            "value": "Calf Length"
+                        },
+                        {
+                            "field_name": "neck",
+                            "display_name": "Neck",
+                            "value": "Round"
+                        },
+                        {
+                            "field_name": "sleeve_length",
+                            "display_name": "Sleeve Length",
+                            "value": "Three-Quarter Sleeves"
+                        },
+                        {
+                            "field_name": "sleeve_styling",
+                            "display_name": "Sleeve Styling",
+                            "value": "Regular"
+                        },
+                        {
+                            "field_name": "pattern",
+                            "display_name": "Pattern",
+                            "value": "Striped"
+                        },
+                        {
+                            "field_name": "ornamentation",
+                            "display_name": "Ornamentation",
+                            "value": "Show Button"
+                        },
+                        {
+                            "field_name": "multipack",
+                            "display_name": "Net Quantity (N)",
+                            "value": "Single"
+                        },
+                        {
+                            "field_name": "occasion",
+                            "display_name": "Occasion",
+                            "value": "Daily"
+                        },
+                        {
+                            "field_name": "generic_name",
+                            "display_name": "Generic Name",
+                            "value": "Kurti With Bottomwear"
+                        },
+                        {
+                            "field_name": "country_of_origin",
+                            "display_name": "Country of Origin",
+                            "value": "India"
+                        }
+                    ]
+                }
+            },
+            "rich_text_media": {
+                "title": "Key Highlights",
+                "position": -1,
+                "attributes": [
+                    {
+                        "field_name": "ornamentation",
+                        "display_name": "Ornamentation",
+                        "value": "Show Button"
+                    },
+                    {
+                        "field_name": "neck",
+                        "display_name": "Neck",
+                        "value": "Round"
+                    },
+                    {
+                        "field_name": "length",
+                        "display_name": "Length",
+                        "value": "Calf Length"
+                    },
+                    {
+                        "field_name": "occasion",
+                        "display_name": "Occasion",
+                        "value": "Daily"
+                    },
+                    {
+                        "field_name": "stitch_type",
+                        "display_name": "Stitch Type",
+                        "value": "Stitched"
+                    }
+                ]
+            },
+            "catalog_id": 88269537,
+            "pre_booking": false,
+            "weight": 270,
+            "sku": "M P Dddd",
+            "images": [
+                "https://images.meesho.com/images/products/303431485/kua6r_512.jpg",
+                "https://images.meesho.com/images/products/303431485/jxmf9_512.jpg",
+                "https://images.meesho.com/images/products/303431485/bw6gm_512.jpg",
+                "https://images.meesho.com/images/products/303431485/zghbh_512.jpg"
+            ],
+            "valid": true,
+            "share_text": "Checkout this latest Kurti With Bottomwear\nProduct Name: *Woolen kurti with pant and duppata*\nKurta Fabric: Wool\nBottomwear Fabric: Wool\nSleeve Length: Three-Quarter Sleeves\nSet Type: Kurta With Bottomwear\nBottom Type: Pants\nPattern: Striped\nNet Quantity (N): Single\nSizes:\nXXS, XS, S (Bust Size: 36 in, Shoulder Size: 14 in, Kurta Waist Size: 32 in, Kurta Length Size: 42 in) \nM (Bust Size: 38 in, Shoulder Size: 14 in, Kurta Waist Size: 34 in, Kurta Length Size: 42 in) \nL (Bust Size: 40 in, Shoulder Size: 15 in, Kurta Waist Size: 36 in, Kurta Length Size: 42 in) \nXL (Bust Size: 42 in, Shoulder Size: 15 in, Kurta Waist Size: 38 in, Kurta Length Size: 42 in) \nXXL (Bust Size: 44 in, Shoulder Size: 16 in, Kurta Waist Size: 40 in, Kurta Length Size: 42 in) \nXXXL, 4XL, 5XL\nKhadi cotton kurti\nKhadi cotton kurti set\nKhadi cotton kurti with dupatta\nDuppatta set\nKurti with pant and dupatta \nCountry of Origin: India\nEasy Returns Available In Case Of Any Issue\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "consumer_share_text": "Hey, check out this product on Meesho!\r\n\r\nGet upto 25% OFF on your first order. Also grab extra 25% on new products every 3 hours!\r\n\nhttps://ltl.sh/share/bniwxmaaaa?external_product_id=50nl8d&product_name=product&shared_by=NTI2MzI2Nzg1",
+            "suppliers": [
+                {
+                    "id": 832144,
+                    "name": "ZR TRADERS",
+                    "handle": "ZRTRADERS28264",
+                    "is_rpc": false,
+                    "default_delivery_time": "Delivery time additional post Dispatch",
+                    "delivery_time_message": "Enter Pincode for Estimated Delivery Date",
+                    "shipping_time": "Dispatch in 0 day",
+                    "delayed_shipping": false,
+                    "price": 241,
+                    "original_price": 253,
+                    "discount": 5,
+                    "total_discount_in_rs": 12,
+                    "discount_text": "₹12 off",
+                    "cod_available": true,
+                    "cod_charges": 0,
+                    "manufacturer": false,
+                    "in_stock": true,
+                    "show_expected_delivery_date": true,
+                    "average_rating": 4,
+                    "rating_count": 51355,
+                    "shipping": {
+                        "charges": 0,
+                        "discount": 0,
+                        "show_shipping_charges": false,
+                        "show_free_delivery": true,
+                        "serviceable": true,
+                        "estimated_delivery": {
+                            "title": "Free Delivery by ",
+                            "date": "Monday, 22 Dec",
+                            "expected_delivery_date_time": "1766361600000"
+                        },
+                        "is_express_delivery": false
+                    },
+                    "variations": [
+                        "M",
+                        "5XL",
+                        "XL",
+                        "L",
+                        "S",
+                        "XXXL",
+                        "XXL",
+                        "4XL",
+                        "XXS",
+                        "XS"
+                    ],
+                    "assured_details": {
+                        "is_assured": false,
+                        "message": "Best quality products from trusted suppliers."
+                    },
+                    "value_props": [
+                        {
+                            "name": "Lowest Price",
+                            "image": "https://images.meesho.com/images/value_props/lowest_price_new.png",
+                            "data": {
+                                "terms": "1. Reward will be provided only if you have placed an order for this product. Make sure you raise a claim within 24 hours of ordering this product.\n\n2. Limited time 100% cashback - Reward equal to the price of the product will be added to your Meesho Credits Balance on products from Saree, Kurtis & Kurta Sets and Suits & Dress Materials. For products from other categories, reward of 5x the price difference will be added to your Meesho Credits Balance.\n\n3. Reward will be provided within 7 days after the return & exchange period of your order is over.\n\n4. Reward will be provided only for cases where same product from same supplier is cheaper anywhere else. (including shipping price)\n\n5. Prices found during sale-campaigns won't be considered eligible under this program\n\n6. Reward will be processed only once per product.\n\n7. If possible, please provide a link of the product (on the other website) to increase the chances of your claim being successful. This will help us verify your claim faster.\n\n8. Meesho reserves the right to change the terms of this program and has the sole authority to decide genuineness of any claim.",
+                                "refund_message": "Get 100% cashback (as Meesho Credits) on select categories if you find a lower price anywhere else"
+                            },
+                            "type": 4
+                        },
+                        {
+                            "name": "Cash on Delivery",
+                            "image": "https://images.meesho.com/images/value_props/cod_new.png",
+                            "data": {},
+                            "type": 1
+                        },
+                        {
+                            "name": "7-day Returns",
+                            "image": "https://images.meesho.com/images/value_props/return_new.png",
+                            "data": {
+                                "title": "Return Policy",
+                                "message": "If there is any issue with the product, you can raise a Refund/ Exchange request within 7 days of receiving the order.\n\nThe product should be unused, undamaged and in original condition without any stain, scratches or holes."
+                            },
+                            "type": 2
+                        },
+                        {
+                            "name": "Direct Delivery To Customer",
+                            "image": "https://images.meesho.com/images/value_props/direct_delivery_new.png",
+                            "data": {},
+                            "type": 5
+                        },
+                        {
+                            "name": "Safe & Secure Payments",
+                            "image": "https://images.meesho.com/images/value_props/secure_payment_color_new.png",
+                            "data": {},
+                            "type": 6
+                        }
+                    ],
+                    "inventory": [
+                        {
+                            "variation": {
+                                "id": 1,
+                                "name": "XXS",
+                                "final_price": 194,
+                                "is_principal_variant": false,
+                                "catalog_id": 88269537,
+                                "priority": 1
+                            },
+                            "in_stock": true
+                        },
+                        {
+                            "variation": {
+                                "id": 2,
+                                "name": "XS",
+                                "final_price": 241,
+                                "is_principal_variant": false,
+                                "catalog_id": 88269537,
+                                "priority": 2
+                            },
+                            "in_stock": true
+                        },
+                        {
+                            "variation": {
+                                "id": 3,
+                                "name": "S",
+                                "final_price": 241,
+                                "is_principal_variant": false,
+                                "catalog_id": 88269537,
+                                "priority": 3
+                            },
+                            "in_stock": true
+                        },
+                        {
+                            "variation": {
+                                "id": 4,
+                                "name": "M",
+                                "final_price": 241,
+                                "is_principal_variant": true,
+                                "catalog_id": 88269537,
+                                "priority": 5
+                            },
+                            "in_stock": true
+                        },
+                        {
+                            "variation": {
+                                "id": 5,
+                                "name": "L",
+                                "final_price": 251,
+                                "is_principal_variant": false,
+                                "catalog_id": 88269537,
+                                "priority": 6
+                            },
+                            "in_stock": true
+                        },
+                        {
+                            "variation": {
+                                "id": 6,
+                                "name": "XL",
+                                "final_price": 251,
+                                "is_principal_variant": false,
+                                "catalog_id": 88269537,
+                                "priority": 7
+                            },
+                            "in_stock": true
+                        },
+                        {
+                            "variation": {
+                                "id": 7,
+                                "name": "XXL",
+                                "final_price": 251,
+                                "is_principal_variant": false,
+                                "catalog_id": 88269537,
+                                "priority": 9
+                            },
+                            "in_stock": true
+                        },
+                        {
+                            "variation": {
+                                "id": 8,
+                                "name": "XXXL",
+                                "final_price": 260,
+                                "is_principal_variant": false,
+                                "catalog_id": 88269537,
+                                "priority": 10
+                            },
+                            "in_stock": true
+                        },
+                        {
+                            "variation": {
+                                "id": 9,
+                                "name": "4XL",
+                                "final_price": 270,
+                                "is_principal_variant": false,
+                                "catalog_id": 88269537,
+                                "priority": 11
+                            },
+                            "in_stock": true
+                        },
+                        {
+                            "variation": {
+                                "id": 10,
+                                "name": "5XL",
+                                "final_price": 270,
+                                "is_principal_variant": false,
+                                "catalog_id": 88269537,
+                                "priority": 12
+                            },
+                            "in_stock": true
+                        }
+                    ],
+                    "price_type_id": "premium_return_price",
+                    "exchange_only": false,
+                    "shop_value_props": [
+                        {
+                            "type": "rating",
+                            "rating": {
+                                "count": 51355,
+                                "average_rating": 4,
+                                "few_ratings": false
+                            }
+                        },
+                        {
+                            "type": "follower",
+                            "follower": {
+                                "count": 830
+                            }
+                        },
+                        {
+                            "type": "product",
+                            "product": {
+                                "count": 17
+                            }
+                        },
+                        {
+                            "type": "products_sold",
+                            "products_sold": {
+                                "count": "2 lakh+"
+                            }
+                        }
+                    ],
+                    "profile_image": "https://images.meesho.com/images/marketing/1629896997118.jpg",
+                    "special_offers": {
+                        "display_text": "₹219 with 1 Special Offer",
+                        "header_text": "1 SPECIAL OFFER",
+                        "savings_text": "<font color='#038D63'>Save ₹22</font> | Pay Only ₹219 ₹<s>241</s>",
+                        "offers": [
+                            {
+                                "type": "cod_unbundling",
+                                "title": "Get EXTRA ₹22 off",
+                                "description": "Select online payments (UPI, Wallets, Cards)",
+                                "amount": 22
+                            }
+                        ]
+                    },
+                    "mall_verified": false,
+                    "mall_tags": [
+                        "Original Brand",
+                        "Authorised Seller",
+                        "Buy Branded products at best prices",
+                        "Original Brands",
+                        "Authorised Sellers",
+                        "Best Prices"
+                    ],
+                    "has_same_price_variations": false,
+                    "price_details": {
+                        "product_price": {
+                            "display_name": "Product Price",
+                            "value": 241
+                        },
+                        "final_price": {
+                            "display_name": "Final Price",
+                            "value": 241
+                        },
+                        "mrp_price": {
+                            "display_name": "Maximum Retail Price(MRP)",
+                            "value": 365
+                        }
+                    },
+                    "app_event_data": {
+                        "price_metadata": "eyJydG9DaGFyZ2UiOjAsInJ0b0Rpc2NvdW50IjowLCJzaGlwcGluZ0NoYXJnZSI6MCwiZGVsaXZlcnlGZWVzIjowLCJzaGlwcGluZ0NoYXJnZXNBZGp1c3RtZW50Ijo2MSwiem9uYWxEaXNjb3VudCI6MCwiem9uYWxDaGFyZ2UiOjAsInN0cmlrZU9mZlByaWNlIjoyNTMsInNlcnZpbmdQcmljZSI6MjQxLCJtYXhEaXNjb3VudFBlcmNlbnRhZ2UiOjUsImF2Z1NzY2F0UnRvQ29kIjowLjMyNDUwNzEyLCJhdmdTc2NhdFJ0b1BwZCI6MC4wNDI3NDY1MTQsImludmVudG9yeUNvdW50Ijo4MjM1LCJjb2REaXNjb3VudCI6MjIsImJmc0Rpc2NvdW50IjowLCJwZnNEaXNjb3VudCI6MCwic3VwcGxpZXJQcmljZSI6MTg5LCJ0YXhBcmJpdHJhZ2VXaXRob3V0R3N0IjotMC40ODU1LCJ0YXhBcmJpdHJhZ2VHc3QiOi0wLjAyNDcsInZhbG1vRGlzY291bnQiOi0xLjQwOTk5OSwiaXNCcnBCbG9ja2VkIjp0cnVlLCJpbnN0cnVtZW50YXRpb25PZmZlcnMiOnsic3VwcGxpZXJPZmZlcnMiOlt7ImRpc2NvdW50Ijo5LCJvZmZlcklkIjoiNzAyZDM0M2YtNmIwZi00YWJiLThkYTYtYWUxODc1YjFlN2EyIiwib2ZmZXJOYW1lIjoiV2ludGVyIE1lbGEifV19LCJydG9Ib2xkb3V0VHlwZSI6Im9kcl9sdF80X3J0b19ob2xkb3V0Iiwic2VydmluZ1ByaWNlVHlwZSI6InByZW1pdW1fcmV0dXJuX3ByaWNlIiwiZGlmZmVyZW50aWFsUHJlcGFpZEFkanVzdG1lbnQiOjAsImRpZmZlcmVudGlhbFByZXBhaWRNYXJnaW4iOi0zLjEzLCJwcmljZU1hcmdpbiI6NC40MDI5NjYsImZvcndhcmRSYXRlQ2FyZENvZCI6MjcuOTg2NTAzLCJmb3J3YXJkUmF0ZUNhcmRQcGQiOjI3LjU1NDQ4NSwicmV2ZXJzZVJhdGVDYXJkQ29kIjoxNy43MDYxMjcsInJldmVyc2VSYXRlQ2FyZFBwZCI6MTguMTI2OTUxLCJ6b25lIjoiRCIsImlzTWFsbFZlcmlmaWVkIjpmYWxzZSwiaXNXYWFzU3VwcGxpZXIiOmZhbHNlLCJyZXR1cm5GYWN0b3JDb2QiOjAuMTM3NzcsInJldHVybkZhY3RvclBwZCI6MC4yMzE0NTYsImNhc2hIYW5kbGluZ0NvZCI6My40ODE5MDUsImNhc2hIYW5kbGluZ1BwZCI6My45Mzc1MDMsInN1cHBsaWVyUHJlcGFpZERpc2NvdW50IjozLCJkaWZmRGlzY291bnRpbmdEc0luc3RydW1lbnRhdGlvbkRhdGEiOnsicHJlcGFpZERpc2NvdW50QmVmb3JlIjoyMiwicHJlcGFpZERpc2NvdW50QWZ0ZXIiOjIyLCJwcm9kdWN0Q29ob3J0IjoiMSIsImNvZFNlcnZpbmdQcmljZSI6MjQxfSwiaXNQcmljaW5nRXJtRW5hYmxlZCI6dHJ1ZSwic2Vjb25kYXJ5UHJpY2VUeXBlIjoiIiwic3NjYXQiOiIxMDAwMiIsIm5ydFZyc0NvbmZpZyI6ImNvbmZpZ19jIn0"
+                    },
+                    "affiliate_commission_text": "",
+                    "lc_commission_text": "",
+                    "show_seller_shop": false
+                }
+            ],
+            "mrp": 365,
+            "stamps": {
+                "cod": true,
+                "return": true,
+                "logo": true
+            },
+            "legal_attributes": {},
+            "in_stock": true,
+            "duplicate_products": [],
+            "media": [
+                {
+                    "url": "https://images.meesho.com/images/products/303431485/kua6r_512.jpg",
+                    "type": "image"
+                },
+                {
+                    "video_id": "303431485",
+                    "preview_image": "https://images.meesho.com/images/products/303431485/kua6r_512.jpg",
+                    "autoplay": true,
+                    "url": "https://videos.meesho.com/videos/products/303431485/303431485.m3u8",
+                    "type": "video",
+                    "aspect_ratio": 0.57
+                },
+                {
+                    "url": "https://images.meesho.com/images/products/303431485/jxmf9_512.jpg",
+                    "type": "image"
+                },
+                {
+                    "url": "https://images.meesho.com/images/products/303431485/bw6gm_512.jpg",
+                    "type": "image"
+                },
+                {
+                    "url": "https://images.meesho.com/images/products/303431485/zghbh_512.jpg",
+                    "type": "image"
+                }
+            ],
+            "catalog_reviews_summary": {
+                "rating_count_map": {
+                    "1": 613,
+                    "2": 0,
+                    "3": 870,
+                    "4": 1560,
+                    "5": 4660
+                },
+                "average_rating": 4,
+                "absolute_average_rating": 5,
+                "average_rating_str": "4.0",
+                "rating_scale": 5,
+                "review_count": 3980,
+                "rating_count": 7703,
+                "type": "catalog",
+                "review": {
+                    "review_id": 1407921189,
+                    "created": "2025-12-02 17:29:00",
+                    "created_iso": "2025-12-02T17:29:00+0530",
+                    "rating": 5,
+                    "helpful_count": 2,
+                    "marked_helpful": false,
+                    "comments": "Bhut acha kapda hai thank you meeso",
+                    "media": [
+                        {
+                            "id": 137050546,
+                            "status": 1,
+                            "url": "https://images.meesho.com/images/ratings_reviews/6805124854/6840103099/6805124854_6840103099_d4cfd102f8d5c.jpeg",
+                            "type": "image"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "id": 137050546,
+                            "status": 1,
+                            "url": "https://images.meesho.com/images/ratings_reviews/6805124854/6840103099/6805124854_6840103099_d4cfd102f8d5c.jpeg"
+                        }
+                    ],
+                    "videos": [],
+                    "author": {
+                        "name": "Meesho User",
+                        "social_profile_token": "azE=.Icy3Ab3Uv2wS24hKnbALRg==.nrjLk8ya24GBaL91N87bP_Wpa-e0bVPy-gZNlly7K-wdGs0WSzmRbYlky4pibKoE",
+                        "followers": 0,
+                        "gamification_level": "Beginner",
+                        "helpful": 20,
+                        "is_following": false
+                    },
+                    "reviewer_name": "Meesho User",
+                    "product_name": "Woolen kurti with pant and duppata",
+                    "product_description": "Kurta Fabric: Wool\nBottomwear Fabric: Wool\nSleeve Length: Three-Quarter Sleeves\nSet Type: Kurta With Bottomwear\nBottom Type: Pants\nPattern: Striped\nNet Quantity (N): Single\nSizes:\nXXS, XS, S (Bust Size: 36 in, Shoulder Size: 14 in, Kurta Waist Size: 32 in, Kurta Length Size: 42 in) \nM (Bust Size: 38 in, Shoulder Size: 14 in, Kurta Waist Size: 34 in, Kurta Length Size: 42 in) \nL (Bust Size: 40 in, Shoulder Size: 15 in, Kurta Waist Size: 36 in, Kurta Length Size: 42 in) \nXL (Bust Size: 42 in, Shoulder Size: 15 in, Kurta Waist Size: 38 in, Kurta Length Size: 42 in) \nXXL (Bust Size: 44 in, Shoulder Size: 16 in, Kurta Waist Size: 40 in, Kurta Length Size: 42 in) \nXXXL, 4XL, 5XL\nKhadi cotton kurti\nKhadi cotton kurti set\nKhadi cotton kurti with dupatta\nDuppatta set\nKurti with pant and dupatta \nCountry of Origin: India",
+                    "product_image_thumb_url": "https://images.meesho.com/images/products/303431485/kua6r_128.jpg",
+                    "product_image_large_url": "https://images.meesho.com/images/products/303431485/kua6r_512.jpg"
+                },
+                "reviews": [
+                    {
+                        "review_id": 1407921189,
+                        "created": "2025-12-02 17:29:00",
+                        "created_iso": "2025-12-02T17:29:00+0530",
+                        "rating": 5,
+                        "helpful_count": 2,
+                        "marked_helpful": false,
+                        "comments": "Bhut acha kapda hai thank you meeso",
+                        "media": [
+                            {
+                                "id": 137050546,
+                                "status": 1,
+                                "url": "https://images.meesho.com/images/ratings_reviews/6805124854/6840103099/6805124854_6840103099_d4cfd102f8d5c.jpeg",
+                                "type": "image"
+                            }
+                        ],
+                        "images": [
+                            {
+                                "id": 137050546,
+                                "status": 1,
+                                "url": "https://images.meesho.com/images/ratings_reviews/6805124854/6840103099/6805124854_6840103099_d4cfd102f8d5c.jpeg"
+                            }
+                        ],
+                        "videos": [],
+                        "author": {
+                            "name": "Meesho User",
+                            "social_profile_token": "azE=.vQQOKD0sikgmMCZ4DmMNng==.yZvSmohx9eZmMfW-Gu1a16rcwSYLAVV0xna2KC5A6b5D3wZ96yINofV2WBSuc5Tr",
+                            "followers": 0,
+                            "gamification_level": "Beginner",
+                            "helpful": 20,
+                            "is_following": false
+                        },
+                        "reviewer_name": "Meesho User",
+                        "product_name": "Woolen kurti with pant and duppata",
+                        "product_description": "Kurta Fabric: Wool\nBottomwear Fabric: Wool\nSleeve Length: Three-Quarter Sleeves\nSet Type: Kurta With Bottomwear\nBottom Type: Pants\nPattern: Striped\nNet Quantity (N): Single\nSizes:\nXXS, XS, S (Bust Size: 36 in, Shoulder Size: 14 in, Kurta Waist Size: 32 in, Kurta Length Size: 42 in) \nM (Bust Size: 38 in, Shoulder Size: 14 in, Kurta Waist Size: 34 in, Kurta Length Size: 42 in) \nL (Bust Size: 40 in, Shoulder Size: 15 in, Kurta Waist Size: 36 in, Kurta Length Size: 42 in) \nXL (Bust Size: 42 in, Shoulder Size: 15 in, Kurta Waist Size: 38 in, Kurta Length Size: 42 in) \nXXL (Bust Size: 44 in, Shoulder Size: 16 in, Kurta Waist Size: 40 in, Kurta Length Size: 42 in) \nXXXL, 4XL, 5XL\nKhadi cotton kurti\nKhadi cotton kurti set\nKhadi cotton kurti with dupatta\nDuppatta set\nKurti with pant and dupatta \nCountry of Origin: India",
+                        "product_image_thumb_url": "https://images.meesho.com/images/products/303431485/kua6r_128.jpg",
+                        "product_image_large_url": "https://images.meesho.com/images/products/303431485/kua6r_512.jpg"
+                    },
+                    {
+                        "review_id": 1287197272,
+                        "created": "2025-09-23 14:55:39",
+                        "created_iso": "2025-09-23T14:55:39+0530",
+                        "rating": 5,
+                        "helpful_count": 72,
+                        "marked_helpful": false,
+                        "comments": "Dareesh to achi aati hai par sarees magva thi hu😢 to ya to kat aa jata hai ya phir kapda acha nhi aata hai 😔😔",
+                        "media": [
+                            {
+                                "id": 125004383,
+                                "status": 1,
+                                "url": "https://images.meesho.com/images/ratings_reviews/6242868407/6275694473/6242868407_6275694473_882a07eabb25a.jpeg",
+                                "type": "image"
+                            },
+                            {
+                                "id": 125004384,
+                                "status": 1,
+                                "url": "https://images.meesho.com/images/ratings_reviews/6242868407/6275694473/6242868407_6275694473_556a147c1c632.jpeg",
+                                "type": "image"
+                            },
+                            {
+                                "id": 125004385,
+                                "status": 1,
+                                "url": "https://images.meesho.com/images/ratings_reviews/6242868407/6275694473/6242868407_6275694473_14ce5b04fd9a6.jpeg",
+                                "type": "image"
+                            }
+                        ],
+                        "images": [
+                            {
+                                "id": 125004383,
+                                "status": 1,
+                                "url": "https://images.meesho.com/images/ratings_reviews/6242868407/6275694473/6242868407_6275694473_882a07eabb25a.jpeg"
+                            },
+                            {
+                                "id": 125004384,
+                                "status": 1,
+                                "url": "https://images.meesho.com/images/ratings_reviews/6242868407/6275694473/6242868407_6275694473_556a147c1c632.jpeg"
+                            },
+                            {
+                                "id": 125004385,
+                                "status": 1,
+                                "url": "https://images.meesho.com/images/ratings_reviews/6242868407/6275694473/6242868407_6275694473_14ce5b04fd9a6.jpeg"
+                            }
+                        ],
+                        "videos": [],
+                        "author": {
+                            "name": "Dinesh Vaishnav",
+                            "profile_image": "https://images.meesho.com/images/reseller/profile_image/192279582e60e45134e69c0990cb89bf_8c5f893a66351_1758617440439_512.jpeg",
+                            "social_profile_token": "azE=.S814_wfMWeeTfr20p5x0rA==.dqLrJCpt_wqp0abbmJIZ_03vRgpc4dxvatMa-i9ZL1OXwSfYwyyYEV-kzarvvS-S",
+                            "followers": 0,
+                            "gamification_level": "Beginner",
+                            "helpful": 67,
+                            "is_following": false
+                        },
+                        "reviewer_name": "Dinesh Vaishnav",
+                        "product_name": "Woolen kurti with pant and duppata",
+                        "product_description": "Kurta Fabric: Wool\nBottomwear Fabric: Wool\nSleeve Length: Three-Quarter Sleeves\nSet Type: Kurta With Bottomwear\nBottom Type: Pants\nPattern: Striped\nNet Quantity (N): Single\nSizes:\nXXS, XS, S (Bust Size: 36 in, Shoulder Size: 14 in, Kurta Waist Size: 32 in, Kurta Length Size: 42 in) \nM (Bust Size: 38 in, Shoulder Size: 14 in, Kurta Waist Size: 34 in, Kurta Length Size: 42 in) \nL (Bust Size: 40 in, Shoulder Size: 15 in, Kurta Waist Size: 36 in, Kurta Length Size: 42 in) \nXL (Bust Size: 42 in, Shoulder Size: 15 in, Kurta Waist Size: 38 in, Kurta Length Size: 42 in) \nXXL (Bust Size: 44 in, Shoulder Size: 16 in, Kurta Waist Size: 40 in, Kurta Length Size: 42 in) \nXXXL, 4XL, 5XL\nKhadi cotton kurti\nKhadi cotton kurti set\nKhadi cotton kurti with dupatta\nDuppatta set\nKurti with pant and dupatta \nCountry of Origin: India",
+                        "product_image_thumb_url": "https://images.meesho.com/images/products/303431485/kua6r_128.jpg",
+                        "product_image_large_url": "https://images.meesho.com/images/products/303431485/kua6r_512.jpg"
+                    }
+                ]
+            },
+            "is_added_to_wishlist": true,
+            "high_asp_enabled": false,
+            "social_proofing_data_details": {},
+            "review_attributes": {
+                "title": "Customer feedback on product features",
+                "attributes": [
+                    {
+                        "label": "Good Size / Fit",
+                        "icon": "https://upload.meeshosupplyassets.com/cataloging/1712583377914/Frame1973344745.png",
+                        "background_color": "#D3F4EA",
+                        "stroke_color": "#038D63",
+                        "description": {
+                            "attribute_votes": {
+                                "total": {
+                                    "label": "Total Votes",
+                                    "count": "4657",
+                                    "color": "#000000"
+                                },
+                                "positive": {
+                                    "label": "Good",
+                                    "count": "3631",
+                                    "color": "#038D63"
+                                },
+                                "neutral": {
+                                    "label": "Ok-Ok",
+                                    "count": "712",
+                                    "color": "#DE8C00"
+                                },
+                                "negative": {
+                                    "label": "Bad",
+                                    "count": "314",
+                                    "color": "#E11900"
+                                }
+                            },
+                            "description_text": ""
+                        },
+                        "filter_option": "eyJ2ZXJzaW9uIjoxLCJ0b3BpYyI6IlNpemUgLyBGaXQiLCJzZW50aW1lbnQiOiJwb3NpdGl2ZSJ9"
+                    },
+                    {
+                        "label": "Good Fabric Softness",
+                        "icon": "https://upload.meeshosupplyassets.com/cataloging/1712583377914/Frame1973344745.png",
+                        "background_color": "#D3F4EA",
+                        "stroke_color": "#038D63",
+                        "description": {
+                            "attribute_votes": {
+                                "total": {
+                                    "label": "Total Votes",
+                                    "count": "4242",
+                                    "color": "#000000"
+                                },
+                                "positive": {
+                                    "label": "Good",
+                                    "count": "3354",
+                                    "color": "#038D63"
+                                },
+                                "neutral": {
+                                    "label": "Ok-Ok",
+                                    "count": "599",
+                                    "color": "#DE8C00"
+                                },
+                                "negative": {
+                                    "label": "Bad",
+                                    "count": "289",
+                                    "color": "#E11900"
+                                }
+                            },
+                            "description_text": ""
+                        },
+                        "filter_option": "eyJ2ZXJzaW9uIjoxLCJ0b3BpYyI6IkZhYnJpYyBTb2Z0bmVzcyIsInNlbnRpbWVudCI6InBvc2l0aXZlIn0="
+                    },
+                    {
+                        "label": "Good Transparency",
+                        "icon": "https://upload.meeshosupplyassets.com/cataloging/1712583377914/Frame1973344745.png",
+                        "background_color": "#D3F4EA",
+                        "stroke_color": "#038D63",
+                        "description": {
+                            "attribute_votes": {
+                                "total": {
+                                    "label": "Total Votes",
+                                    "count": "4090",
+                                    "color": "#000000"
+                                },
+                                "positive": {
+                                    "label": "Good",
+                                    "count": "3210",
+                                    "color": "#038D63"
+                                },
+                                "neutral": {
+                                    "label": "Ok-Ok",
+                                    "count": "620",
+                                    "color": "#DE8C00"
+                                },
+                                "negative": {
+                                    "label": "Bad",
+                                    "count": "260",
+                                    "color": "#E11900"
+                                }
+                            },
+                            "description_text": ""
+                        },
+                        "filter_option": "eyJ2ZXJzaW9uIjoxLCJ0b3BpYyI6IlRyYW5zcGFyZW5jeSIsInNlbnRpbWVudCI6InBvc2l0aXZlIn0="
+                    }
+                ],
+                "show_seller_shop": false
+            },
+            "catalog_product_images": [
+                {
+                    "id": 303431485,
+                    "url": "https://images.meesho.com/images/products/303431485/kua6r_512.jpg"
+                }
+            ],
+            "supported_variation_ids": [],
+            "sale_marker": {
+                "enabled": true
+            },
+            "flash_marker": {
+                "enabled": false
+            },
+            "combo_offer": {
+                "enabled": false
+            },
+            "lowest_price_marker": {
+                "enabled": false
+            }
+        },
+        "catalog": {
+            "id": 88269537,
+            "name": "Adrika Fabulous Women Kurta Sets",
+            "category_id": 1003,
+            "sub_sub_category_id": 1003,
+            "sub_sub_category_name": "Kurti With Bottomwear",
+            "min_product_price": 241,
+            "max_product_discount": 5,
+            "total_discount_in_rs": 12,
+            "discount_text": "₹12 off",
+            "original_price": 253,
+            "full_details": "Kurta Fabric: Khadi Cotton\nBottomwear Fabric: Khadi Cotton\nFabric: Khadi Cotton\nSet Type: Kurta With Dupatta And Bottomwear\nBottom Type: Pants\nPattern: Striped\nNet Quantity (N): Single\nSizes: \nS, XL, L, XXL, M, XXXLDispatch: 2-2 Days",
+            "share_text": "Catalog Name:*Adrika Fabulous Women Kurta Sets*\nKurta Fabric: Wool\nBottomwear Fabric: Wool\nSleeve Length: Three-Quarter Sleeves\nSet Type: Kurta With Bottomwear\nBottom Type: Pants\nPattern: Striped\nNet Quantity (N): Single\nSizes: \nXXS, XS, S (Bust Size: 36 in, Shoulder Size: 14 in, Kurta Waist Size: 32 in, Kurta Length Size: 42 in) \nM (Bust Size: 38 in, Shoulder Size: 14 in, Kurta Waist Size: 34 in, Kurta Length Size: 42 in) \nL (Bust Size: 40 in, Shoulder Size: 15 in, Kurta Waist Size: 36 in, Kurta Length Size: 42 in) \nXL (Bust Size: 42 in, Shoulder Size: 15 in, Kurta Waist Size: 38 in, Kurta Length Size: 42 in) \nXXL (Bust Size: 44 in, Shoulder Size: 16 in, Kurta Waist Size: 40 in, Kurta Length Size: 42 in) \nXXXL, 4XL, 5XLDispatch: 0 Days\n\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "type": "catalog",
+            "pre_booking": false,
+            "image": "https://images.meesho.com/images/catalogs/88269537/cover/1/2/d6b9c2a819142942486d6c312004cce403fcfa6dc5728399e4b20f339bf3f6d5d7280c309e079441a0d83889c2cff05e1120597cb21bcc7e688bfd5c75a0396e_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/88269537/collages/1/1/d6b9c2a819142942486d6c312004cce403fcfa6dc5728399e4b20f339bf3f6d5d7280c309e079441a0d83889c2cff05e1120597cb21bcc7e688bfd5c75a0396e.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "valid": true,
+            "is_added_to_wishlist": true,
+            "assured_details": {
+                "is_assured": false,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "mall_tags": [
+                "Original Brand",
+                "Authorised Seller",
+                "Buy Branded products at best prices",
+                "Original Brands",
+                "Authorised Sellers",
+                "Best Prices"
+            ],
+            "tags": [],
+            "gray_tags": [],
+            "ad": {
+                "active": true,
+                "tag": "Ad"
+            },
+            "has_same_price_products": false,
+            "product_images": [
+                {
+                    "id": 303431485,
+                    "url": "https://images.meesho.com/images/products/303431485/kua6r_512.jpg"
+                }
+            ],
+            "value_props": [
+                {
+                    "name": "Lowest Price",
+                    "image": "https://images.meesho.com/images/value_props/lowest_price_new.png",
+                    "data": {
+                        "terms": "1. Reward will be provided only if you have placed an order for this product. Make sure you raise a claim within 24 hours of ordering this product.\n\n2. Limited time 100% cashback - Reward equal to the price of the product will be added to your Meesho Credits Balance on products from Saree, Kurtis & Kurta Sets and Suits & Dress Materials. For products from other categories, reward of 5x the price difference will be added to your Meesho Credits Balance.\n\n3. Reward will be provided within 7 days after the return & exchange period of your order is over.\n\n4. Reward will be provided only for cases where same product from same supplier is cheaper anywhere else. (including shipping price)\n\n5. Prices found during sale-campaigns won't be considered eligible under this program\n\n6. Reward will be processed only once per product.\n\n7. If possible, please provide a link of the product (on the other website) to increase the chances of your claim being successful. This will help us verify your claim faster.\n\n8. Meesho reserves the right to change the terms of this program and has the sole authority to decide genuineness of any claim.",
+                        "refund_message": "Get 100% cashback (as Meesho Credits) on select categories if you find a lower price anywhere else"
+                    },
+                    "type": 4
+                },
+                {
+                    "name": "Cash on Delivery",
+                    "image": "https://images.meesho.com/images/value_props/cod_new.png",
+                    "data": {},
+                    "type": 1
+                },
+                {
+                    "name": "7-day Returns",
+                    "image": "https://images.meesho.com/images/value_props/return_new.png",
+                    "data": {
+                        "title": "Return Policy",
+                        "message": "If there is any issue with the product, you can raise a Refund/ Exchange request within 7 days of receiving the order.\n\nThe product should be unused, undamaged and in original condition without any stain, scratches or holes."
+                    },
+                    "type": 2
+                }
+            ],
+            "price_type_id": "premium_return_price",
+            "products": [
+                {
+                    "id": 303431485,
+                    "name": "Woolen kurti with pant and duppata",
+                    "images": [
+                        "https://images.meesho.com/images/products/303431485/kua6r_128.jpg"
+                    ],
+                    "valid": true,
+                    "min_price": 241,
+                    "original_price": 253,
+                    "discount": 5,
+                    "assured_details": {
+                        "is_assured": false,
+                        "message": "Best quality products from trusted suppliers."
+                    },
+                    "inventory": [
+                        {
+                            "variation": {
+                                "id": 1,
+                                "name": "XXS"
+                            },
+                            "in_stock": true
+                        },
+                        {
+                            "variation": {
+                                "id": 2,
+                                "name": "XS"
+                            },
+                            "in_stock": true
+                        },
+                        {
+                            "variation": {
+                                "id": 3,
+                                "name": "S"
+                            },
+                            "in_stock": true
+                        },
+                        {
+                            "variation": {
+                                "id": 4,
+                                "name": "M"
+                            },
+                            "in_stock": true
+                        },
+                        {
+                            "variation": {
+                                "id": 5,
+                                "name": "L"
+                            },
+                            "in_stock": true
+                        },
+                        {
+                            "variation": {
+                                "id": 6,
+                                "name": "XL"
+                            },
+                            "in_stock": true
+                        },
+                        {
+                            "variation": {
+                                "id": 7,
+                                "name": "XXL"
+                            },
+                            "in_stock": true
+                        },
+                        {
+                            "variation": {
+                                "id": 8,
+                                "name": "XXXL"
+                            },
+                            "in_stock": true
+                        },
+                        {
+                            "variation": {
+                                "id": 9,
+                                "name": "4XL"
+                            },
+                            "in_stock": true
+                        },
+                        {
+                            "variation": {
+                                "id": 10,
+                                "name": "5XL"
+                            },
+                            "in_stock": true
+                        }
+                    ],
+                    "in_stock": true
+                }
+            ],
+            "consumer_share_text": "Hey, check out this product on Meesho!\r\n\r\nGet upto 25% OFF on your first order. Also grab extra 25% on new products every 3 hours!\r\n\nhttps://www.meesho.com/s/p/50nl8d?utm_source=s",
+            "social_proofing_data_details": {},
+            "high_asp_enabled": false,
+            "affiliate_commission_text": "",
+            "lc_commission_text": ""
+        },
+        "user_data": {},
+        "intent_modal_data": {},
+        "isProductPresentInSitemap": true,
+        "breadcrumb": [
+            {
+                "title": "Women",
+                "url": "/women/pl/44l4",
+                "icon_url": null,
+                "image_url": null,
+                "parent_id": null,
+                "id": 10,
+                "type": "cat"
+            },
+            {
+                "title": "Women Ethnic Wear",
+                "url": "/women-ethnic-wear/pl/1hjl",
+                "icon_url": null,
+                "image_url": null,
+                "parent_id": 10,
+                "id": 74,
+                "type": "scat"
+            },
+            {
+                "title": "Kurta Sets",
+                "url": "/kurta-sets-women/pl/3k9",
+                "icon_url": null,
+                "image_url": null,
+                "parent_id": 74,
+                "id": 1003,
+                "type": "sscat"
+            }
+        ]
+    },
+    "metaData": {}
+}
