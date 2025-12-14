@@ -1,29 +1,28 @@
 const mongoose = require("mongoose");
 
-const productSchema = new mongoose.Schema({
-  productId: String,
-  name: String,
-  price: Number,
-  rating: Number,
+const productSchema = new mongoose.Schema(
+  {
+    productId: String,
+    slug: String,
+    name: String,
 
-  productImage: String,
-  galleryImages: [String],
+    price: Number,
+    originalPrice: Number,
+    discount: Number,
+    rating: Number,
 
-  sizing: [String],
-  highlights: [String],
+    productImage: String,
+    galleryImages: [String],
 
-  variants: [
-    {
-      variantId: String,
-      color: String,
-      size: String,
-      image: String,
-      slug: String
+    category: String,
+    // subCategory: String,
+
+    // 🔥 Store full Meesho product safely
+    rawData: {
+      type: mongoose.Schema.Types.Mixed
     }
-  ],
-
-  slug: String,
-  category: String
-}, { timestamps: true });
+  },
+  { timestamps: true }
+);
 
 module.exports = mongoose.model("Products", productSchema);
